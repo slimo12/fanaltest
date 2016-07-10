@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1,------ TUNISIA TV ------
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
 #EXTINF:-1,AR: El Hiwar Ettounsi VIP
@@ -13,10 +13,24 @@ http://sat.010e.net:8000/live/katarfahed/fahedkatar/418.ts
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/856.ts
 #EXTINF:-1,------ BEIN SPORTS MAX TV ------
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
+#EXTINF:-1,VIP: beIN MAX 1 ( LIVE DM-TN )
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8708.ts
+#EXTINF:-1,VIP: beIN MAX 1 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8550.ts
+#EXTINF:-1,VIP: beIN MAX 2 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8551.ts
+#EXTINF:-1,VIP: Bein Max 1 Low
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8710.ts
+#EXTINF:-1,VIP: Bein Max 2 Low
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8709.ts
 #EXTINF:-1,AR: BeinSport MAX 1 HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5418.ts
 #EXTINF:-1,AR: BeinSport MAX 2 HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5419.ts
+#EXTINF:-1,AR: Bein Max 1 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8584.ts
+#EXTINF:-1,AR: Bein Max 2 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8583.ts
 #EXTINF:-1,BeinSport_MAX_1-HD
 
 http://tviptv.org:50100/live/Slimo12/Slimo12/1082.ts
@@ -105,6 +119,8 @@ http://tvdreams.org:50100/live/Slimo12/Slimo12/466.ts
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6132.ts
 #EXTINF:-1,OSN_AbuDhabi_Sports3HD
 http://sat.010e.net:8000/live/katarfahed/fahedkatar/1310.ts
+#EXTINF:-1,VIP OSN: AD Sports 3 Low
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8641.ts
 #EXTINF:-1,------ OSN ARABIC MOVIES CHANNELS ------
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
 #EXTINF:-1,OSN-ART-Aflam-1-HD
@@ -275,6 +291,34 @@ http://sat.010e.net:8000/live/katarfahed/fahedkatar/1445.ts
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/4041.ts
 #EXTINF:-1,FR: PARAMOUNT CHANNEL HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6010.ts
+#EXTINF:-1,VIP: FX HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8450.ts
+#EXTINF:-1,VIP: FOX Family HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8451.ts
+#EXTINF:-1,VIP: FOX Action HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8452.ts
+#EXTINF:-1,VIP OSN: OSN AMC
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6134.ts
+#EXTINF:-1,MyHD: Travel Channel HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8539.ts
+#EXTINF:-1,MyHD: EXTREME SPORTS
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8478.ts
+#EXTINF:-1,MyHD: Animaux HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8422.ts
+#EXTINF:-1,MyHD: Filmbox HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8420.ts
+#EXTINF:-1,MyHD: Docubox HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8421.ts
+#EXTINF:-1,MyHD: FightBox HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8587.ts
+#EXTINF:-1,VIP: Nautical HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8777.ts
+#EXTINF:-1,VIP: MTV Live HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8778.ts
+#EXTINF:-1,VIP OSN: MTV INDIA
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8773.ts
+#EXTINF:-1,VIP: I Concerts
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8713.ts
 #EXTINF:-1,------ DRAMA TV ------
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
 #EXTINF:-1,OSN-YaHala-HD
@@ -310,6 +354,30 @@ http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/983.ts
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6826.ts
 #EXTINF:-1,USA: HBO East
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7462.ts
+#EXTINF:-1,VIP OSN: Comedy Central
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8992.ts
+#EXTINF:-1,OSN: Nickelodeon HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8446.ts
+#EXTINF:-1,VIP: OSN Disney Channel
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7558.ts
+#EXTINF:-1,VIP OSN: Disney Junior
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6121.ts
+#EXTINF:-1,VIP OSN: JimJam
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7887.ts
+#EXTINF:-1,VIP: BeIN Jeem
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8008.ts
+#EXTINF:-1,VIP: Jeem Europe
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8007.ts
+#EXTINF:-1,VIP: BeIN Baraem
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7832.ts
+#EXTINF:-1,VIP: Baraem Europe
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8009.ts
+#EXTINF:-1,VIP: Fix & Foxi
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6621.ts
+#EXTINF:-1,VIP OSN: Disney ( AR )
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8582.ts
+#EXTINF:-1,VIP: BOX OFFICE SPORTS HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8249.ts
 #EXTINF:-1,UK: Comedy Central
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1445.ts
 #EXTINF:-1,UK: Comedy Extra

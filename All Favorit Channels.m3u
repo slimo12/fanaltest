@@ -1,16 +1,25 @@
 #EXTM3U
 #EXTINF:-1,------ TUNISIA TV ------
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
-#EXTINF:-1,AR: El Hiwar Ettounsi VIP
+#EXTINF:-1,VIP: TUNISIE NAT 1 
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6656.ts
+#EXTINF:-1,VIP: TUNISIE NAT 2
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/525.ts
+#EXTINF:-1,VIP: El Hiwar Ettounsi
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/152.ts
-#EXTINF:-1,Elhiwar-Ettouns
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/1683.ts
-#EXTINF:-1,AR: Nessma TV VIP
+#EXTINF:-1,VIP: Hannibal TV
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/149.ts
+#EXTINF:-1,VIP: Nessma TV
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/148.ts
-#EXTINF:-1,Nessma-Tunis
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/418.ts
-#EXTINF:-1,AR: ATTESSIA
+#EXTINF:-1,VIP: ATTESSIA
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/856.ts
+#EXTINF:-1,S2:Nessma-Tunis
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/418.ts
+#EXTINF:-1,S2:Hanibal-Tunis
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/431.ts
+#EXTINF:-1,S2:Elhiwar-Ettouns
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/1683.ts
+
 #EXTINF:-1,------ BEIN SPORTS MAX TV ------
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
 #EXTINF:-1,VIP: beIN MAX 1 ( LIVE DM-TN )
@@ -23,83 +32,140 @@ http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8551.ts
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8710.ts
 #EXTINF:-1,VIP: Bein Max 2 Low
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8709.ts
-#EXTINF:-1,AR: BeinSport MAX 1 HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5418.ts
-#EXTINF:-1,AR: BeinSport MAX 2 HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5419.ts
-#EXTINF:-1,AR: Bein Max 1 HD
+#EXTINF:-1,VIP: Bein Max 1 HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8584.ts
-#EXTINF:-1,AR: Bein Max 2 HD
+#EXTINF:-1,VIP: Bein Max 2 HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8583.ts
-#EXTINF:-1,BeinSport_MAX_1-HD
+#EXTINF:-1,S2:BeinSport-Max1
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/54.ts
+#EXTINF:-1,S2:BeinSport-Max2
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/55.ts
+#EXTINF:-1,S2:BeinSport-Max3
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/53.ts
+#EXTINF:-1,S3:BeinSport_MAX_1-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/1082.ts
+#EXTINF:-1,S3:BeinSport_MAX_2-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/1083.ts
+#EXTINF:-1,S3:BeinSport_MAX_1_HD_FULL
+http://tvdreams.org:50100/live/Slimo12/Slimo12/1085.ts
+#EXTINF:-1,S3:BeinSport_MAX_2_HD_FULL
+http://tvdreams.org:50100/live/Slimo12/Slimo12/1084.ts
 
-http://tviptv.org:50100/live/Slimo12/Slimo12/1082.ts
-#EXTINF:-1,BeinSport_MAX_2-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/1083.ts
-#EXTINF:-1,FR: BEINSPORT 1 HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1882.ts
-#EXTINF:-1,FR: BEINSPORT 2 HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1883.ts
-#EXTINF:-1,FR: BEINSPORT 3 HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1884.ts
+#EXTINF:-1,------ BEIN SPORTS TV ------
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
+#EXTINF:-1,VIP: Bein Sports News HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6211.ts
+#EXTINF:-1,FR: InfoSport+
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/3403.ts
+#EXTINF:-1,S2:FR:Info-Sport+
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/1319.ts
 #EXTINF:-1,VIP: Bein Sport 1 HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5330.ts
 #EXTINF:-1,VIP: Bein Sport 2 HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5329.ts
 #EXTINF:-1,VIP: Bein Sport 3 HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5328.ts
-#EXTINF:-1,VIP: Bein Sport  HD
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/1796.ts
-#EXTINF:-1,BeinSport-HD1
+#EXTINF:-1,VIP: Bein Sport 4 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5327.ts
+#EXTINF:-1,VIP: beIN Sport 1 LOW
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7720.ts
+#EXTINF:-1,VIP: beIN Sport 2 LOW
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7719.ts
+#EXTINF:-1,VIP: beIN Sport 3 LOW
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7718.ts
+#EXTINF:-1,VIP: beIN Sport 4 LOW
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7717.ts
+#EXTINF:-1,VIP:Bein Sport 1 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7788.ts
+#EXTINF:-1,VIP:Bein Sport 2 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7787.ts
+#EXTINF:-1,VIP:Bein Sport 3 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7786.ts
+#EXTINF:-1,VIP:Bein Sport 4 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7785.ts
+#EXTINF:-1,VIP: Bein Sport 13 LOW
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8631.ts
+#EXTINF:-1,VIP: Bein Sport 14 LOW
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8648.ts
+#EXTINF:-1,VIP: Bein Sport 15 LOW
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8647.ts
+#EXTINF:-1,VIP: Bein Sport 16 LOW
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8646.ts
+#EXTINF:-1,VIP: Bein Sports 1 Fr
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5689.ts
+#EXTINF:-1,VIP: Bein Sports 2 Fr
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5690.ts
+#EXTINF:-1,VIP: Bein Sports 3 Fr
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5691.ts
+#EXTINF:-1,VIP: Bein Sports ES
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5872.ts
+#EXTINF:-1,S2:BeinSport-HD1
 http://sat.010e.net:8000/live/katarfahed/fahedkatar/1.ts
-#EXTINF:-1,BeinSport-HD2
+#EXTINF:-1,S2:BeinSport-HD2
 http://sat.010e.net:8000/live/katarfahed/fahedkatar/2.ts
-#EXTINF:-1,BeinSport-SD1
+#EXTINF:-1,S2:BeinSport-HD3
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/3.ts
+#EXTINF:-1,S2:BeinSport-HD4
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/4.ts
+#EXTINF:-1,S2:BeinSport-SD1
 http://sat.010e.net:8000/live/katarfahed/fahedkatar/41.ts
-#EXTINF:-1,BeinSport-SD2
+#EXTINF:-1,S2:BeinSport-SD2
 http://sat.010e.net:8000/live/katarfahed/fahedkatar/42.ts
-#EXTINF:-1,BeinSport-Low_1
+#EXTINF:-1,S2:BeinSport-SD3
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/43.ts
+#EXTINF:-1,S2:BeinSport-SD4
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/44.ts
+#EXTINF:-1,S2:BeinSport-Low_1
 http://sat.010e.net:8000/live/katarfahed/fahedkatar/258.ts
-#EXTINF:-1,BeinSport-Low_2
+#EXTINF:-1,S2:BeinSport-Low_2
 http://sat.010e.net:8000/live/katarfahed/fahedkatar/259.ts
-#EXTINF:-1,BeinSport-FullHD-1
+#EXTINF:-1,S2:BeinSport-Low_3
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/260.ts
+#EXTINF:-1,S2:BeinSport-Low_4
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/261.ts
+#EXTINF:-1,S2:BeinSport-FullHD-1
 http://sat.010e.net:8000/live/katarfahed/fahedkatar/333.ts
-#EXTINF:-1,BeinSport-Full-HD2
+#EXTINF:-1,S2:BeinSport-Full-HD2
 http://sat.010e.net:8000/live/katarfahed/fahedkatar/334.ts
-#EXTINF:-1,BeinSport-Max1
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/54.ts
-#EXTINF:-1,BeinSport-Max2
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/55.ts
-#EXTINF:-1,BeinSport-Max3
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/53.ts
-#EXTINF:-1,BeinSport-FR1
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/283.ts
-#EXTINF:-1,BeinSport-FR2
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/284.ts
-#EXTINF:-1,BeinSport-FR3
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/1451.ts
-#EXTINF:-1,FR: BEINSPORT 1 HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1882.ts
-#EXTINF:-1,FR: BEINSPORT 2 HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1883.ts
-#EXTINF:-1,FR: BEINSPORT 3 HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1884.ts
-#EXTINF:-1,BeinSport_1_HD1-FR
+#EXTINF:-1,S2:BeinSport-Full-HD3
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/335.ts
+#EXTINF:-1,S2:BeinSport-Full-HD4
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/336.ts
+#EXTINF:-1,S3:BeinSport_1_HD_FULL_1
+http://tvdreams.org:50100/live/Slimo12/Slimo12/36.ts
+#EXTINF:-1,S3:BeinSport_2_HD_FULL_1
+http://tvdreams.org:50100/live/Slimo12/Slimo12/37.ts
+#EXTINF:-1,S3:BeinSport_3_HD_FULL_1
+http://tvdreams.org:50100/live/Slimo12/Slimo12/38.ts
+#EXTINF:-1,S3:BeinSport_4_HD_FULL_1
+http://tvdreams.org:50100/live/Slimo12/Slimo12/39.ts
+#EXTINF:-1,BeinSport_1_HD1
+http://tvdreams.org:50100/live/Slimo12/Slimo12/58.ts
+#EXTINF:-1,BeinSport_2_HD1
+http://tvdreams.org:50100/live/Slimo12/Slimo12/59.ts
+#EXTINF:-1,BeinSport_3_HD1
+http://tvdreams.org:50100/live/Slimo12/Slimo12/60.ts
+#EXTINF:-1,BeinSport_4_HD1
+http://tvdreams.org:50100/live/Slimo12/Slimo12/61.ts
+#EXTINF:-1,S3:BeinSport_1_HD_FULL_2
+http://tvdreams.org:50100/live/Slimo12/Slimo12/48.ts
+#EXTINF:-1,S3:BeinSport_2_HD_FULL_2
+http://tvdreams.org:50100/live/Slimo12/Slimo12/49.ts
+#EXTINF:-1,S3:BeinSport_3_HD_FULL_2
+http://tvdreams.org:50100/live/Slimo12/Slimo12/50.ts
+#EXTINF:-1,S3:BeinSport_4_HD_FULL_2
+http://tvdreams.org:50100/live/Slimo12/Slimo12/51.ts
+#EXTINF:-1,S3:BeinSport_1_SD-1
+http://tvdreams.org:50100/live/Slimo12/Slimo12/68.ts
+#EXTINF:-1,S3:BeinSport_2_SD-1
+http://tvdreams.org:50100/live/Slimo12/Slimo12/69.ts
+#EXTINF:-1,S3:BeinSport_3_SD-1
+http://tvdreams.org:50100/live/Slimo12/Slimo12/70.ts
+#EXTINF:-1,S3:BeinSport_4_SD-1
+http://tvdreams.org:50100/live/Slimo12/Slimo12/71.ts
 
-http://tvdreams.org:50100/live/Slimo12/Slimo12/771.ts
-#EXTINF:-1,BeinSport_2_HD1-FR
-
-http://tvdreams.org:50100/live/Slimo12/Slimo12/772.ts
-#EXTINF:-1,BeinSport_3_HD1-FR
-
-http://tvdreams.org:50100/live/Slimo12/Slimo12/773.ts
 #EXTINF:-1,------ OSN SPORTS TV ------
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
-#EXTINF:-1,OSN-SPORT-1
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/392.ts
-#EXTINF:-1,OSN-SPORT-2
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/393.ts
 #EXTINF:-1,VIP: OSN Sports 1 HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7560.ts
 #EXTINF:-1,VIP: OSN Sports 2 HD
@@ -108,169 +174,125 @@ http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6206.ts
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7478.ts
 #EXTINF:-1,VIP: OSN Sports 4 HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6977.ts
-#EXTINF:-1,OSN-WWE
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/394.ts
-#EXTINF:-1,VIP: OSN WWE
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6108.ts
-#EXTINF:-1,IT=Primafilla_WWE_10-HD
-
-http://tvdreams.org:50100/live/Slimo12/Slimo12/466.ts
+#EXTINF:-1,S2:OSN-SPORT-1
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/392.ts
+#EXTINF:-1,S2:OSN-SPORT-2
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/393.ts
 #EXTINF:-1,VIP OSN: AD Sports 3 HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6132.ts
-#EXTINF:-1,OSN_AbuDhabi_Sports3HD
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/1310.ts
+#EXTINF:-1,VIP OSN: AD Sports 4 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6131.ts
 #EXTINF:-1,VIP OSN: AD Sports 3 Low
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8641.ts
+#EXTINF:-1,VIP OSN: AD Sports 4 Low
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8640.ts
+#EXTINF:-1,VIP: NBA HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6800.ts
+#EXTINF:-1,VIP:  REAL MADRID TV
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6466.ts
+#EXTINF:-1,VIP OSN: FightNetwork
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7556.ts
+#EXTINF:-1,VIP: OSN WWE
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6108.ts
+#EXTINF:-1,VIP: WWE HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2946.ts
+#EXTINF:-1,S2:OSN-WWE
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/394.ts
+#EXTINF:-1,S3:IT=Primafilla_WWE_10-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/466.ts
+#EXTINF:-1,VIP: BOX OFFICE SPORTS HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8249.ts
+#EXTINF:-1,MyHD: EXTREME SPORTS
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8478.ts
+#EXTINF:-1,MyHD: FightBox HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8587.ts
+#EXTINF:-1,FR: KOMBAT SPORT HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2906.ts
+
+#EXTINF:-1,------ BEIN MOVIES TV ------
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
+#EXTINF:-1,VIP: BeIN Movies 1
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6107.ts
+#EXTINF:-1,VIP: BeIN Movies 2
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6106.ts
+#EXTINF:-1,VIP: BeIN Movies 3
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6105.ts
+#EXTINF:-1,VIP: BeIN Movies 4
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7559.ts
+
 #EXTINF:-1,------ OSN ARABIC MOVIES CHANNELS ------
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
-#EXTINF:-1,OSN-ART-Aflam-1-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/1.ts
-#EXTINF:-1,AR: ART Aflam 1
+#EXTINF:-1,VIP: ART Aflam 1
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/159.ts
-#EXTINF:-1,ART-AFLAM-1
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/56.ts
-#EXTINF:-1,ART-AFLAM-2
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/57.ts
-#EXTINF:-1,OSN-ART-Aflam-2-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/2.ts
-#EXTINF:-1,AR: ART Aflam 2
+#EXTINF:-1,VIP: ART Aflam 2
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/158.ts
-#EXTINF:-1,OSN-ART-Cinema-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/5.ts
-#EXTINF:-1,AR: ART CINEMA
+#EXTINF:-1,S2:ART-AFLAM-1
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/56.ts
+#EXTINF:-1,S2:ART-AFLAM-2
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/57.ts
+#EXTINF:-1,S3:OSN-ART-Aflam-1-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/1.ts
+#EXTINF:-1,S3:OSN-ART-Aflam-2-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/2.ts
+#EXTINF:-1,VIP: ART CINEMA
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/930.ts
-#EXTINF:-1,ART-Cinema
+#EXTINF:-1,S2:ART-Cinema
 http://sat.010e.net:8000/live/katarfahed/fahedkatar/60.ts
-#EXTINF:-1,OSN-Cinema-1-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/13.ts
+#EXTINF:-1,S3:OSN-ART-Cinema-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/5.ts
 #EXTINF:-1,VIP OSN: Cinema 1
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6126.ts
-#EXTINF:-1,OSN: Cinema 1
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/980.ts
-#EXTINF:-1,OSN-CINEMA1
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/17.ts
-#EXTINF:-1,OSN-Cinema-2-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/14.ts
 #EXTINF:-1,VIP OSN: Cinema 2
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6125.ts
+#EXTINF:-1,S2:OSN-CINEMA1
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/17.ts
+#EXTINF:-1,S2:OSN-CINEMA2
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/18.ts
+#EXTINF:-1,S3:OSN-Cinema-1-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/13.ts
+#EXTINF:-1,S3:OSN-Cinema-2-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/14.ts
+#EXTINF:-1,OSN: CINEMA 1
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8523.ts
 #EXTINF:-1,OSN: CINEMA 2
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1162.ts
-#EXTINF:-1,OSN-CINEMA2
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/18.ts
-#EXTINF:-1,OSN-YaHala-Cinema-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/886.ts
 #EXTINF:-1,VIP OSN: OSN Yahala Cinema HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7537.ts
-#EXTINF:-1,OSN-YaHala-Cinema
+#EXTINF:-1,S2:OSN-YaHala-Cinema
 http://sat.010e.net:8000/live/katarfahed/fahedkatar/226.ts
-#EXTINF:-1,------ OSN ENGLISH MOVIES CHANNELS ------
+#EXTINF:-1,S3:OSN-YaHala-Cinema-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/886.ts
+#EXTINF:-1,OSN: YA HALA CINEMA
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8502.ts
+#EXTINF:-1,AR: Rotana cinema
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/144.ts
+#EXTINF:-1,AR: Rotana Classic
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/143.ts
+#EXTINF:-1,AR: Rotana Aflam
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/4711.ts
+
+#EXTINF:-1,------ OSN BOX OFFICE CHANNELS ------
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
-#EXTINF:-1,VIP OSN: OSN Movies
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6119.ts
-#EXTINF:-1,OSN-MOVIES-HD
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/19.ts
-#EXTINF:-1,OSN-Movies-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/20.ts
-#EXTINF:-1,OSN-MOVIES-ACTION
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/20.ts
-#EXTINF:-1,VIP OSN: OSN Movies Action
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6118.ts
-#EXTINF:-1,OSN-Movies-Action-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/21.ts
-#EXTINF:-1,OSN-MOVIES-PREMIER
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/112.ts
-#EXTINF:-1,OSN-Movies-Premiere-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/23.ts
-#EXTINF:-1,VIP OSN: OSN Movies Premiere
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6113.ts
-#EXTINF:-1,OSN-MOVIES-Comedy
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/256.ts
-#EXTINF:-1,VIP OSN: OSN Movies Comedy
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6978.ts
-#EXTINF:-1,OSN-Movies-Comedy-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/27.ts
-#EXTINF:-1,VIP OSN: OSN Movies Family HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7533.ts
-#EXTINF:-1,OSN-On-Demand
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/389.ts
-#EXTINF:-1,OSN-MOVIES-DRAMA
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/97.ts
-#EXTINF:-1,VIP OSN: OSN Movies Drama
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6326.ts
-#EXTINF:-1,OSN-Movies-Drama-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/10.ts
-#EXTINF:-1,OSN-MOVIES-FESTIVAL
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/21.ts
-#EXTINF:-1,OSN-Movies-Festlval-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/9.ts
-#EXTINF:-1,VIP OSN: OSN Movies Festival
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6115.ts
-#EXTINF:-1,OSN-Movies-2-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/32.ts
-#EXTINF:-1,OSN-MOVIES-ACTION+2
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/295.ts
-#EXTINF:-1,VIP OSN: OSN Movies Action+2
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7603.ts
-#EXTINF:-1,OSN-Movies-Action-2-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/22.ts
-#EXTINF:-1,OSN-MOVIES-FIRST
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/326.ts
-#EXTINF:-1,OSN-MOVIES-PREMIER+2
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/121.ts
-#EXTINF:-1,VIP OSN: OSN Movies Premiere 2
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8254.ts
-#EXTINF:-1,OSN-Movies-Premiere-2-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/24.ts
-#EXTINF:-1,OSN-MOVIES-KIDS
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/22.ts
-#EXTINF:-1,VIP: OSN Movies Kids
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7554.ts
-
-#EXTINF:-1,OSN-Movies-Kids-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/30.ts
-#EXTINF:-1,OSN-BoxOffice-1
+#EXTINF:-1,S2:OSN-BoxOffice-1
 http://sat.010e.net:8000/live/katarfahed/fahedkatar/304.ts
-#EXTINF:-1,OSN-BoxOffice-2
+#EXTINF:-1,S2:OSN-BoxOffice-2
 http://sat.010e.net:8000/live/katarfahed/fahedkatar/303.ts
-#EXTINF:-1,OSN-BoxOffice-3
+#EXTINF:-1,S2:OSN-BoxOffice-3
 http://sat.010e.net:8000/live/katarfahed/fahedkatar/409.ts
-#EXTINF:-1,OSN-Box-OFFICE-1-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/33.ts
-#EXTINF:-1,OSN-Box-OFFICE-2-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/34.ts
-#EXTINF:-1,OSN-Box-OFFICE-3-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/35.ts
-#EXTINF:-1,BOX-OFFICE-1-HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2611.ts
-#EXTINF:-1,BOX-OFFICE-2-HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2610.ts
-#EXTINF:-1,BOX-OFFICE-3-HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2609.ts
 #EXTINF:-1,VIP: OSN MOVIES BOX OFFICE 1 HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8253.ts
 #EXTINF:-1,VIP: OSN MOVIES BOX OFFICE 2 HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8248.ts
 #EXTINF:-1,VIP: OSN MOVIES BOX OFFICE 3 HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8247.ts
+#EXTINF:-1,S3:OSN-Box-OFFICE-1-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/33.ts
+#EXTINF:-1,S3:OSN-Box-OFFICE-2-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/34.ts
+#EXTINF:-1,S3:OSN-Box-OFFICE-3-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/35.ts
+#EXTINF:-1,VIP OSN: ON DEMAND XTRA
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6323.ts
 #EXTINF:-1,AR: OSN ON-DEMAND 1HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7265.ts
 #EXTINF:-1,AR: OSN ON-DEMAND 2HD
@@ -283,14 +305,97 @@ http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7262.ts
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7261.ts
 #EXTINF:-1,AR: OSN ON-DEMAND-EXTRA 3HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7260.ts
-#EXTINF:-1,UK: SyFy
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8134.ts
-#EXTINF:-1,FR:SYFY
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/1445.ts
-#EXTINF:-1,FR: Syfy HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/4041.ts
-#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6010.ts
+#EXTINF:-1,S2:OSN-On-Demand
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/389.ts
+#EXTINF:-1,S3:OSN-Demand-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/25.ts
+#EXTINF:-1,S3:OSN-Demand-Extra-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/837.ts
+
+#EXTINF:-1,------ OSN ENGLISH MOVIES CHANNELS ------
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
+#EXTINF:-1,VIP OSN: OSN Movies
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6119.ts
+#EXTINF:-1,OSN: MOVIES HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2656.ts
+#EXTINF:-1,S2:OSN-MOVIES-HD
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/19.ts
+#EXTINF:-1,S3:OSN-Movies-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/20.ts
+#EXTINF:-1,VIP OSN: OSN Movies Premiere
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6113.ts
+#EXTINF:-1,S2:OSN-MOVIES-PREMIER
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/112.ts
+#EXTINF:-1,S3:OSN-Movies-Premiere-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/23.ts
+#EXTINF:-1,VIP OSN: OSN Movies Premiere +2
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8254.ts
+#EXTINF:-1,VIP OSN: OSN Movies Festival
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6115.ts
+#EXTINF:-1,VIP OSN: OSN Movies Action HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6118.ts
+#EXTINF:-1,S2:OSN-MOVIES-ACTION
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/20.ts
+#EXTINF:-1,S3:OSN-Movies-Action-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/21.ts
+#EXTINF:-1,OSN: MOVIES ACTION HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8500.ts
+#EXTINF:-1,VIP OSN: OSN Movies Action+2
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7603.ts
+#EXTINF:-1,VIP OSN: OSN Movies Drama
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6326.ts
+#EXTINF:-1,VIP OSN: OSN Movies Comedy
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6978.ts
+#EXTINF:-1,S2:OSN-MOVIES-Comedy
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/256.ts
+#EXTINF:-1,S3:OSN-Movies-Comedy-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/27.ts
+#EXTINF:-1,VIP OSN: OSN Movies Family HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7533.ts
+#EXTINF:-1,S2:OSN-MOVIES-ACTION+2
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/295.ts
+#EXTINF:-1,S2:OSN-MOVIES-FESTIVAL
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/21.ts
+#EXTINF:-1,S2:OSN-MOVIES-FIRST
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/326.ts
+#EXTINF:-1,S2:OSN-MOVIES-PREMIER+2
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/121.ts
+#EXTINF:-1,S2:OSN-MOVIES-DRAMA
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/97.ts
+#EXTINF:-1,S2:OSN-MOVIES-KIDS
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/22.ts
+#EXTINF:-1,S3:OSN-Movies-2-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/32.ts
+#EXTINF:-1,S3:OSN-Movies-Action-2-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/22.ts
+#EXTINF:-1,S3:OSN-Movies-Premiere-2-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/24.ts
+#EXTINF:-1,S3:OSN-Movies-Festlval-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/9.ts
+#EXTINF:-1,S3:OSN-Movies-Drama-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/10.ts
+#EXTINF:-1,S3:OSN-Movies-Kids-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/30.ts
+#EXTINF:-1,S3:OSN-Movies-AMC-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/887.ts
+#EXTINF:-1,OSN: Movies Premiere+2 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8507.ts
+#EXTINF:-1,OSN: Movies Festival HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2608.ts
+#EXTINF:-1,VIP OSN: OSN Movies Kids
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7554.ts
+#EXTINF:-1,UK: Sky Movies ScFi-Horror HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1419.ts
+#EXTINF:-1,UK: Horror
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5653.ts
+#EXTINF:-1,S2:Sky-Movies-SCI-FI
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/239.ts
+#EXTINF:-1,S2:Sky-Movies-Thriller
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/1466.ts
+#EXTINF:-1,UK: Sky Movies Premiere HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1420.ts
+#EXTINF:-1,MyHD: Filmbox HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8420.ts
 #EXTINF:-1,VIP: FX HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8450.ts
 #EXTINF:-1,VIP: FOX Family HD
@@ -299,241 +404,239 @@ http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8451.ts
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8452.ts
 #EXTINF:-1,VIP OSN: OSN AMC
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6134.ts
-#EXTINF:-1,MyHD: Travel Channel HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8539.ts
-#EXTINF:-1,MyHD: EXTREME SPORTS
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8478.ts
-#EXTINF:-1,MyHD: Animaux HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8422.ts
-#EXTINF:-1,MyHD: Filmbox HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8420.ts
-#EXTINF:-1,MyHD: Docubox HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8421.ts
-#EXTINF:-1,MyHD: FightBox HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8587.ts
-#EXTINF:-1,VIP: Nautical HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8777.ts
-#EXTINF:-1,VIP: MTV Live HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8778.ts
-#EXTINF:-1,VIP OSN: MTV INDIA
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8773.ts
-#EXTINF:-1,VIP: I Concerts
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8713.ts
-#EXTINF:-1,------ DRAMA TV ------
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
-#EXTINF:-1,OSN-YaHala-HD
+#EXTINF:-1,FR: TCM Cinema
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7476.ts
+#EXTINF:-1,VIP OSN: Star Movies
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6116.ts
+#EXTINF:-1,VIP OSN: Star World
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6117.ts
+#EXTINF:-1,VIP: BOX VOD HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6411.ts
+#EXTINF:-1,VIP: ACTION VOD HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6410.ts
+#EXTINF:-1,VIP: ACTION+2 VOD HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8606.ts
+#EXTINF:-1,VIP: Movies Premiere HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8164.ts
+#EXTINF:-1,VIP: Pro Action VOD HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7648.ts
+#EXTINF:-1,VIP: Movies Plus VOD HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7647.ts
 
-http://tviptv.org:50100/live/Slimo12/Slimo12/15.ts
-#EXTINF:-1,OSN: YA HALA HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1158.ts
-#EXTINF:-1,VIP OSN: OSN Yahala
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6110.ts
-#EXTINF:-1,OSN-YaHala-HD
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/110.ts
-#EXTINF:-1,OSN-YaHala-Drama
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/111.ts
-#EXTINF:-1,OSN-YAHALA-Shabab
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/212.ts
-#EXTINF:-1,VIP OSN: OSN First HBO
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7534.ts
+#EXTINF:-1,------ OSN SEIRIES TV ------
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
 #EXTINF:-1,VIP OSN: OSN First
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6104.ts
-#EXTINF:-1,OSN-First-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/29.ts
-#EXTINF:-1,VIP OSN: OSN First Comedy
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6103.ts
-#EXTINF:-1,OSN-First-Comedy-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/26.ts
+#EXTINF:-1,VIP OSN: OSN First HBO
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7534.ts
+#EXTINF:-1,OSN: FIRST HBO HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8504.ts
 #EXTINF:-1,OSN: FIRST HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1159.ts
-#EXTINF:-1,OSN: First Comedy HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/983.ts
-#EXTINF:-1,USA: HBO
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6826.ts
-#EXTINF:-1,USA: HBO East
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7462.ts
+#EXTINF:-1,VIP OSN: OSN First Comedy
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6103.ts
+#EXTINF:-1,S3:OSN-First-Comedy-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/26.ts
+#EXTINF:-1,S3:OSN-First-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/29.ts
 #EXTINF:-1,VIP OSN: Comedy Central
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8992.ts
-#EXTINF:-1,OSN: Nickelodeon HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8446.ts
-#EXTINF:-1,VIP: OSN Disney Channel
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7558.ts
-#EXTINF:-1,VIP OSN: Disney Junior
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6121.ts
-#EXTINF:-1,VIP OSN: JimJam
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7887.ts
-#EXTINF:-1,VIP: BeIN Jeem
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8008.ts
-#EXTINF:-1,VIP: Jeem Europe
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8007.ts
-#EXTINF:-1,VIP: BeIN Baraem
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7832.ts
-#EXTINF:-1,VIP: Baraem Europe
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8009.ts
-#EXTINF:-1,VIP: Fix & Foxi
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6621.ts
-#EXTINF:-1,VIP OSN: Disney ( AR )
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8582.ts
-#EXTINF:-1,VIP: BOX OFFICE SPORTS HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8249.ts
-#EXTINF:-1,UK: Comedy Central
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1445.ts
-#EXTINF:-1,UK: Comedy Extra
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5048.ts
-#EXTINF:-1,USA: FX HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7417.ts
-#EXTINF:-1,USA: FX
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8069.ts
-#EXTINF:-1,USA: FXX HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6823.ts
-#EXTINF:-1,USA: HBO Family
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6824.ts
-#EXTINF:-1,USA: HBO plus HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6825.ts
+#EXTINF:-1,S2:Comedy-Central
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/322.ts
+#EXTINF:-1,FR: Comedie+ HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5019.ts
+#EXTINF:-1,S2:FR:COMEDI+
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/1326.ts
+
+#EXTINF:-1,------ DRAMA TV ------
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
+#EXTINF:-1,AR: ART Hekayat 1
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/509.ts
+#EXTINF:-1,AR: ART Hekayat 2
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/156.ts
+#EXTINF:-1,S2:ART-Hekayat
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/58.ts
+#EXTINF:-1,S2:ART-Hekayat-2
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/59.ts
+#EXTINF:-1,S3:OSN-ART-Hekayat-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/3.ts
+#EXTINF:-1,S3:OSN-ART-Hekayat-2-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/4.ts
+#EXTINF:-1,VIP OSN: OSN Yahala
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6110.ts
+#EXTINF:-1,S2:OSN-YaHala-HD
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/110.ts
+#EXTINF:-1,VIP OSN: OSN Yahala Shabab
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6111.ts
+#EXTINF:-1,VIP OSN: OSN Yahala Drama
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6112.ts
+#EXTINF:-1,OSN: YA HALA HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1158.ts
+#EXTINF:-1,OSN: YA HALA DRAMA
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8501.ts
+#EXTINF:-1,OSN: YA HALA SHABAB HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/890.ts
+#EXTINF:-1,S2:OSN-YaHala-Drama
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/111.ts
+#EXTINF:-1,S2:OSN-YAHALA-Shabab
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/212.ts
+#EXTINF:-1,S3:OSN-YaHala-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/15.ts
+#EXTINF:-1,S3:OSN-YaHala-Shabab-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/16.ts
+#EXTINF:-1,S3:OSN-YaHala-Drama-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/17.ts
+#EXTINF:-1,AR: Nile Drama
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/3064.ts
+#EXTINF:-1,AR: AD Drama HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/3163.ts
 #EXTINF:-1,AR: CbC Drama
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2632.ts
-#EXTINF:-1,AR=CbC-Drama
 
-http://tviptv.org:50100/live/Slimo12/Slimo12/105.ts
-#EXTINF:-1,CBC-Drama
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/89.ts
 #EXTINF:-1,------ OSN Documentary TV ------
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
-#EXTINF:-1,VIP OSN: Discovery Science
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6123.ts
-#EXTINF:-1,OSN-Discovery-Sc
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/353.ts
-#EXTINF:-1,OSN-Discovery-Science-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/8.ts
-#EXTINF:-1,OSN-Discovery-Sc
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/353.ts
-#EXTINF:-1,OSN-DISCOVERY-ID
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/124.ts
-#EXTINF:-1,OSN-Discovery-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/836.ts
-#EXTINF:-1,VIP OSN: Discovery HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6980.ts
-#EXTINF:-1,VIP: IDX HD ( OSN )
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8165.ts
-#EXTINF:-1,VIP OSN: ID Xtra
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7642.ts
-#EXTINF:-1,VIP OSN: ID
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6319.ts
-#EXTINF:-1,OSN-DISCOVERY-ID
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/124.ts
-#EXTINF:-1,OSN: Animal Planet HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/923.ts
-#EXTINF:-1,OSN: NAT GEO WILD HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1244.ts
-#EXTINF:-1,OSN: Discovery ID
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5213.ts
-#EXTINF:-1,FR: Discovery HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/3402.ts
-#EXTINF:-1,FR: Discovery Science HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/3525.ts
-#EXTINF:-1,UK: Discovery Science
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/3861.ts
-#EXTINF:-1,------ OSN ENTERTANMENT TV ------
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
-#EXTINF:-1,OSN-National-Geo-Wild
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/411.ts
-#EXTINF:-1,OSN-ANIMAL-PLANET
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/255.ts
-#EXTINF:-1,OSN-Animal-Planet-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/11.ts
-#EXTINF:-1,OSN-Nat-Geo-Wild-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/6.ts
-#EXTINF:-1,OSN-Animal-Planet-AB-HD
-
-http://tviptv.org:50100/live/Slimo12/Slimo12/31.ts
 #EXTINF:-1,VIP OSN: Nat Geo HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7536.ts
 #EXTINF:-1,VIP OSN: Nat Geo Wild
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6120.ts
 #EXTINF:-1,VIP OSN: Nat Geo People HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7535.ts
-#EXTINF:-1,VIP OSN: Animal Planet
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6127.ts
+#EXTINF:-1,VIP OSN: Discovery HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6980.ts
+#EXTINF:-1,VIP OSN: DISCOVERY FAMILY HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8514.ts
+#EXTINF:-1,VIP OSN: Discovery Science
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6123.ts
+#EXTINF:-1,VIP OSN: H HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8516.ts
 #EXTINF:-1,VIP OSN: History HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6114.ts
 #EXTINF:-1,VIP OSN: H2
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6620.ts
-#EXTINF:-1,OSN-FOOD-HD
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/23.ts
-#EXTINF:-1,OSN-E-HD
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/257.ts
-#EXTINF:-1,OSN-TCM
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/24.ts
-#EXTINF:-1,OSN-DISENY
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/39.ts
-#EXTINF:-1,OSN-DISENY-Junior
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/287.ts
+#EXTINF:-1,VIP OSN: Animal Planet HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6127.ts
+#EXTINF:-1,VIP OSN: ID_X HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6319.ts
+#EXTINF:-1,VIP beIN: Nat Geo Wild HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/9075.ts
+#EXTINF:-1,VIP beIN: Animal Planet HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/9076.ts
+#EXTINF:-1,MyHD: Animaux HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8422.ts
+#EXTINF:-1,MyHD: Docubox HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8421.ts
+#EXTINF:-1,OSN: Animal Planet HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/923.ts
+#EXTINF:-1,OSN: Discovery ID
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5213.ts
+#EXTINF:-1,S2:OSN-National-Geo-Wild
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/411.ts
+#EXTINF:-1,S2:OSN-ANIMAL-PLANET
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/255.ts
+#EXTINF:-1,S2:OSN-Discovery-Sc
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/353.ts
+#EXTINF:-1,S2:OSN-DISCOVERY-ID
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/124.ts
+#EXTINF:-1,S2:Discovery
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/1454.ts
+#EXTINF:-1,S2:Discovery-World
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/1455.ts
+#EXTINF:-1,S2:DISCOVERY-SCINCE
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/157.ts
+#EXTINF:-1,S2:National-Wild
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/1456.ts
+#EXTINF:-1,S3:OSN-Animal-Planet-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/11.ts
+#EXTINF:-1,S3:OSN-Disney-Junior-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/28.ts
+#EXTINF:-1,S3:OSN-Discovery-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/836.ts
+#EXTINF:-1,S3:OSN-Nat-Geo-Wild-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/6.ts
+#EXTINF:-1,S3:OSN-Animal-Planet-AB-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/31.ts
+#EXTINF:-1,S3:OSN-Discovery-Science-HD
+http://tvdreams.org:50100/live/Slimo12/Slimo12/8.ts
+
+#EXTINF:-1,------ OSN KIDS TV ------
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
+#EXTINF:-1,OSN: Nickelodeon HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8446.ts
+#EXTINF:-1,S2:OSN-Nicolodian
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/227.ts
 #EXTINF:-1,VIP: OSN Disney Channel
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7558.ts
-#EXTINF:-1,VIP OSN: Disney Junior
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6121.ts
+#EXTINF:-1,VIP OSN: Disney ( AR )
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8582.ts
+#EXTINF:-1,S2:OSN-DISENY
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/39.ts
+#EXTINF:-1,S2:OSN-DISENY-Junior
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/287.ts
+#EXTINF:-1,VIP: Kids VOD HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6409.ts
+#EXTINF:-1,FR: Game One
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7477.ts
+#EXTINF:-1,FR: J-ONE HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8367.ts
 #EXTINF:-1,FR: DISNEY CHANNEL HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1457.ts
-#EXTINF:-1,UK: Disney Ch HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/3440.ts
-#EXTINF:-1,UK: Disney XD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5650.ts
+#EXTINF:-1,FR: Disney+1 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8591.ts
 #EXTINF:-1,FR: DISNEY JUNIOR
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/4617.ts
-#EXTINF:-1,FR: DISNEY CINEMA HD
+#EXTINF:-1,FR: DISNEY CH+1
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/4616.ts
 #EXTINF:-1,FR: Disney Cinemagic
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7889.ts
 #EXTINF:-1,FR: Disney XD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1455.ts
-#EXTINF:-1,VIP OSN: JimJam
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7887.ts
-#EXTINF:-1,VIP: BeIN Jeem
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8008.ts
-#EXTINF:-1,VIP: Jeem Europe
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8007.ts
-#EXTINF:-1,VIP: BeIN Baraem
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7832.ts
-#EXTINF:-1,VIP: Baraem Europe
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8009.ts
-#EXTINF:-1,VIP OSN: Cartoon Network HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7888.ts
-#EXTINF:-1,VIP: Fix & Foxi
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6621.ts
-#EXTINF:-1,VIP: Nick
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8249.ts
-#EXTINF:-1,OSN-Nicolodian
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/227.ts
-#EXTINF:-1,OSN-TCM
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/24.ts
-#EXTINF:-1,OSN-DISENY
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/39.ts
-#EXTINF:-1,OSN-DISENY-Junior
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/287.ts
-#EXTINF:-1,OSN-National-Geo-Wild
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/411.ts
-#EXTINF:-1,OSN-ANIMAL-PLANET
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/255.ts
-#EXTINF:-1,STAR-MOVIES-HD
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/176.ts
-#EXTINF:-1,STAR-WORLD-HD
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/34.ts
+#EXTINF:-1,FR: Disney Cinema HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8614.ts
+#EXTINF:-1,FR: Cartoon NetWork
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2985.ts
+#EXTINF:-1,FR: Boomerang HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2970.ts
+#EXTINF:-1,FR: Nickelodeon
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6631.ts
+#EXTINF:-1,FR: NICKELODEON JUNIOR
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6448.ts
+#EXTINF:-1,FR: Nicklodeon 4teen
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8057.ts
+#EXTINF:-1,FR: TeleToon+1
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5040.ts
+#EXTINF:-1,FR: MANGA
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/4976.ts
+#EXTINF:-1,S2:Diseny-XD-EN
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/240.ts
+#EXTINF:-1,S2:Diseny-Junior
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/241.ts
+#EXTINF:-1,S2:CartoonNetwork-EN
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/243.ts
+#EXTINF:-1,S2:NICE-TOON
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/645.ts
+#EXTINF:-1,S2:NICKJR-KIDS-EN
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/242.ts
+#EXTINF:-1,S2:Nickelodeon-HD
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/644.ts
+#EXTINF:-1,S2:FR:Mangas
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/1336.ts
+#EXTINF:-1,S2:FR:CanalJ
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/615.ts
+#EXTINF:-1,S2:FR:Gulli
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/1333.ts
+#EXTINF:-1,S2:FR:PIWI+
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/1334.ts
+#EXTINF:-1,S2:FR:Boomerang
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/616.ts
+#EXTINF:-1,S2:FR:DisneyJunior
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/1337.ts
+#EXTINF:-1,S2:FR:CartoonNetworkHD
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/1335.ts
+
+#EXTINF:-1,------ OSN ENTERTANMENT TV ------
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
 #EXTINF:-1,VIP OSN: TLC HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7833.ts
-#EXTINF:-1,VIP OSN: OSN AMC
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6134.ts
-#EXTINF:-1,VIP OSN: Star Movies
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6116.ts
-#EXTINF:-1,VIP: beIN Star World HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6618.ts
-#EXTINF:-1,VIP OSN: Star World
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6117.ts
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7642.ts
 #EXTINF:-1,VIP OSN: E! Entertement
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7858.ts
 #EXTINF:-1,VIP OSN: Outdoor HD
@@ -544,72 +647,195 @@ http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7555.ts
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7557.ts
 #EXTINF:-1,VIP: FASHION BOX HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7816.ts
-#EXTINF:-1,STAR-MOVIES-HD
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/176.ts
-#EXTINF:-1,STAR-WORLD-HD
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/34.ts
+#EXTINF:-1,MyHD: Travel Channel HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8539.ts
+#EXTINF:-1,S2:OSN-FOOD-HD
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/23.ts
+#EXTINF:-1,S2:OSN-E-HD
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/257.ts
+#EXTINF:-1,S2:OSN-TCM
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/24.ts
+
 #EXTINF:-1,------ French TV ------
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
-#EXTINF:-1,CH: RTS Un HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6350.ts
-#EXTINF:-1,CH: RTS Deux HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6349.ts
-#EXTINF:-1,FR:Info-Sport+
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/1319.ts
-#EXTINF:-1,FR: InfoSport+
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/3403.ts
+#EXTINF:-1,FR: HD1
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/3521.ts
 #EXTINF:-1,FR: CANAL+ HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1956.ts
 #EXTINF:-1,FR: Canal+ Decale HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/859.ts
 #EXTINF:-1,FR: Canal+ Sport HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1957.ts
-#EXTINF:-1,FR:Canal+Sport
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/1448.ts
 #EXTINF:-1,FR: CANAL+ CINEMA HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/795.ts
-#EXTINF:-1,FR:Canal-HD1
+#EXTINF:-1,FR: CANAL+ SERIES HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1958.ts
+#EXTINF:-1,FR: CANAL+  FAMILY HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1827.ts
+#EXTINF:-1,S2:FR:Canal-HD1
 http://sat.010e.net:8000/live/katarfahed/fahedkatar/1320.ts
-#EXTINF:-1,FR:Canal-Cinema1
+#EXTINF:-1,S2:FR:Canal-Cinema1
 http://sat.010e.net:8000/live/katarfahed/fahedkatar/1321.ts
-#EXTINF:-1,FR:Canal-Family
+#EXTINF:-1,S2:FR:Canal-Family
 http://sat.010e.net:8000/live/katarfahed/fahedkatar/1323.ts
-#EXTINF:-1,FR:Canal-Series
+#EXTINF:-1,S2:FR:Canal-Series
 http://sat.010e.net:8000/live/katarfahed/fahedkatar/1449.ts
-#EXTINF:-1,FR:Canal-Decale
+#EXTINF:-1,S2:FR:Canal-Decale
 http://sat.010e.net:8000/live/katarfahed/fahedkatar/1324.ts
-#EXTINF:-1,FR: Comedie+ HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5019.ts
-#EXTINF:-1,FR:COMEDI+
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/1326.ts
-#EXTINF:-1,FR:BOX-OFFICE-HD
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/1315.ts
-#EXTINF:-1,FR:BOX-OFFICE-2
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/445.ts
-#EXTINF:-1,FR:Ma-Chaine-Sport
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/1325.ts
-#EXTINF:-1,FR:Info-Sport+
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/1319.ts
+#EXTINF:-1,S2:FR:Canal+Sport
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/1448.ts
 #EXTINF:-1,FR: TF1 HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1948.ts
-#EXTINF:-1,FR:TF1-HD
+#EXTINF:-1,FR: TF1 SD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7371.ts
+#EXTINF:-1,FR: M6 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1950.ts
+#EXTINF:-1,FR: M6 SD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7372.ts
+#EXTINF:-1,S2:FR:TF1-HD
 http://sat.010e.net:8000/live/katarfahed/fahedkatar/1314.ts
-#EXTINF:-1,FR:M6-HD
+#EXTINF:-1,S2:FR:M6-HD
 http://sat.010e.net:8000/live/katarfahed/fahedkatar/440.ts
-#EXTINF:-1,---- ESPANIA ------
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2919.ts
+#EXTINF:-1,FR: Syfy HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/4041.ts
+#EXTINF:-1,S2:FR:SYFY
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/1445.ts
+#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6010.ts
+#EXTINF:-1,FR: Ushuaia
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2444.ts
+#EXTINF:-1,FR: ANIMAUX HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2196.ts
+#EXTINF:-1,FR: Rmc Decouverte
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/3519.ts
+#EXTINF:-1,FR: Voyage
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2972.ts
+#EXTINF:-1,FR: Science & Vie HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6242.ts
+#EXTINF:-1,FR: Discovery HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/3402.ts
+#EXTINF:-1,FR: Discovery Science HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/3525.ts
+#EXTINF:-1,FR: PLANET+ HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/4612.ts
+#EXTINF:-1,FR: PLANET+  CI
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/3749.ts
+#EXTINF:-1,FR: PLANET A&E
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6625.ts
+#EXTINF:-1,FR: NAT GEO HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/4615.ts
+#EXTINF:-1,FR: NAT GEO WILD HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/4614.ts
+#EXTINF:-1,FR: Chasse & Peche
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/4611.ts
+#EXTINF:-1,FR: Toute Histoire
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2982.ts
+#EXTINF:-1,FR: HISTOIRE
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6739.ts
+
+
+#EXTINF:-1,------ FR-IT-UK-ES SPORTS TV ------
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
+#EXTINF:-1,FR: BEINSPORT 1 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1882.ts
+#EXTINF:-1,FR: BEINSPORT 2 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1883.ts
+#EXTINF:-1,FR: BEINSPORT 3 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1884.ts
+#EXTINF:-1,FR: BEIN Sports MAX 4
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7215.ts
+#EXTINF:-1,FR: BEIN Sports MAX 5
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7216.ts
+#EXTINF:-1,FR: BEIN Sports MAX 6
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7217.ts
+#EXTINF:-1,FR: BEIN Sports MAX 7
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7218.ts
+#EXTINF:-1,FR: BEIN Sports MAX 8
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7219.ts
+#EXTINF:-1,FR: EUROSPORT 1 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2194.ts
+#EXTINF:-1,FR: EUROSPORT 2 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2445.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6911.ts
+#EXTINF:-1,UK: BT Sports 1
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/671.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6912.ts
+#EXTINF:-1,UK: BT Sports 2
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/817.ts
+#EXTINF:-1,UK: BT Sport Europe HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6780.ts
+#EXTINF:-1,UK: BT Sport Europe
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6858.ts
+#EXTINF:-1,UK: BT Sport ESPN
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1440.ts
+#EXTINF:-1,UK: BT SPORTS EXTRA
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/4223.ts
+#EXTINF:-1,UK: SKY SPORTS 1 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2159.ts
+#EXTINF:-1,UK: SKY SPORTS 1
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1842.ts
+#EXTINF:-1,UK: SKY SPORTS 2 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2160.ts
+#EXTINF:-1,UK: SKY SPORTS 2
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1841.ts
+#EXTINF:-1,UK: SKY SPORTS 3 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2161.ts
+#EXTINF:-1,UK: SKY SPORTS 3
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1840.ts
+#EXTINF:-1,UK: SKY SPORTS 4 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2162.ts
+#EXTINF:-1,UK: SKY SPORTS 4
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1839.ts
+#EXTINF:-1,UK: SKY SPORTS 5 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2163.ts
+#EXTINF:-1,UK: SKY SPORTS 5
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1838.ts
+#EXTINF:-1,UK: SKY SPORTS NEWS HQ
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2165.ts
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/3855.ts
+#EXTINF:-1,S2:SKY-SPORT-1
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/187.ts
+#EXTINF:-1,S2:SKY-SPORT-2
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/188.ts
+#EXTINF:-1,S2:SKY-SPORT-3
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/189.ts
+#EXTINF:-1,S2:SKY-SPORT-4
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/190.ts
+#EXTINF:-1,S2:SKY-SPORT-5
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/661.ts
+#EXTINF:-1,S2:SKY-SPORT-F1
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/191.ts
+#EXTINF:-1,S2:Sky-Sport-News
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/669.ts
+#EXTINF:-1,UK: SATENTA SPORT
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1579.ts
+#EXTINF:-1,UK: SETENTA Irland
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/3531.ts
+#EXTINF:-1,UK: Setanta Sports 1
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5768.ts
+#EXTINF:-1,UK: PREMIERE SPORT HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2169.ts
+#EXTINF:-1,UK: Eurosport 1 UK
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/3856.ts
+#EXTINF:-1,UK: EUROSPORT 2 UK
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2660.ts
 #EXTINF:-1,ES: beIN SPORT ES
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5044.ts
 #EXTINF:-1,ES: CANAL+ LIGA HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1823.ts
+#EXTINF:-1,ES: CANAL  LIGA 2 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8865.ts
+#EXTINF:-1,ES: CANAL+  FUTBOL HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8443.ts
 #EXTINF:-1,ES: CANAL+  FUTBOL
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1824.ts
 #EXTINF:-1,ES: CANAL+  DEPORTES
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1876.ts
 #EXTINF:-1,ES: CANAL+  DEPORTES 2
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/4835.ts
-#EXTINF:-1,ES: CANAL  PARTIDAZO
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7829.ts
 #EXTINF:-1,ES: MOVISTAR F1 HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6794.ts
 #EXTINF:-1,ES: MOVISTAR MOTO GP HD
@@ -620,40 +846,350 @@ http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7908.ts
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/3921.ts
 #EXTINF:-1,ES: Barca TV
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2720.ts
-#EXTINF:-1,ES: Real Madrid tv
+#EXTINF:-1,ES: Real Madrid tv HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5028.ts
-#EXTINF:-1,ES: Sport CDO HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5611.ts
+#EXTINF:-1,ES: C  BEIN MAX 1
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8593.ts
+#EXTINF:-1,ES: C  BEIN MAX 2
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8594.ts
+#EXTINF:-1,ES: C  BEIN MAX 3
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8595.ts
+#EXTINF:-1,ES: #0 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8935.ts
 #EXTINF:-1,ES: CANAL 1 HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6929.ts
 #EXTINF:-1,ES: TVE 1 HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2718.ts
-#EXTINF:-1,ES: TVE 2 HD
+#EXTINF:-1,ES: TVE 2
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5160.ts
+#EXTINF:-1,ES: TVE 24H
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8938.ts
 #EXTINF:-1,ES: La Sexta HD
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/4992.ts
-#EXTINF:-1,SP: TELECINCO
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/4075.ts
-#EXTINF:-1,ES:MoveStar-F1
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/1165.ts
-#EXTINF:-1,ES:Spain-Liga
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/1164.ts
-#EXTINF:-1,ES:FOX-FAMILY
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/1357.ts
-#EXTINF:-1,ES:Call-13
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/633.ts
-#EXTINF:-1,ES:Real-Madrid
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/632.ts
-#EXTINF:-1,ES:Canal+Comidia
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/1397.ts
-#EXTINF:-1,ES:Canal Futbol
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/1399.ts
-#EXTINF:-1,ES:Canal+1
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/1403.ts
-#EXTINF:-1,ES:_AXN
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/1406.ts
-#EXTINF:-1,ES:HBO-TV
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/668.ts
+#EXTINF:-1,S2:BT-SPORT-1
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/192.ts
+#EXTINF:-1,S2:BT-SPORT-2
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/193.ts
+#EXTINF:-1,S2:BT-SPORT-ESPN
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/196.ts
+#EXTINF:-1,S2:BT-SPORTS-EXTRA
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/1457.ts
+#EXTINF:-1,S2:BT-SPORT-EUROP
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/247.ts
+#EXTINF:-1,S2:EURO-SPORT
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/197.ts
+#EXTINF:-1,S2:IT:Sky-Sport-1
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/1270.ts
+#EXTINF:-1,S2:IT:Sky-Sport-2
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/1269.ts
+#EXTINF:-1,S2:IT:Sky-Sport-3
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/1267.ts
+#EXTINF:-1,S2:IT:Sky-Sport-F1
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/1266.ts
+#EXTINF:-1,IT:Sky-Calcio-1
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/1305.ts
+#EXTINF:-1,IT:Sky-Super-Calcio
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/1263.ts
+#EXTINF:-1,IT:Sky-MoviStar-Sport
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/1265.ts
+
+#EXTINF:-1,------ UK-ES MOVIES TV ------
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
+#EXTINF:-1,UK: Sky Movies Family
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1422.ts
+#EXTINF:-1,UK: Sky Movies Select HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2096.ts
+#EXTINF:-1,UK: Sky Movies Drama HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2097.ts
+#EXTINF:-1,UK: Sky Movies Crime & Thriller
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2098.ts
+#EXTINF:-1,UK: Sky Movies Disney
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1424.ts
+#EXTINF:-1,UK: Sky Movies Thriller
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1416.ts
+#EXTINF:-1,UK: Sky Movies Comedy HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1426.ts
+#EXTINF:-1,UK: Sky Movies Action&Adventure
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1427.ts
+#EXTINF:-1,S2:Sky-Movies-Action
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/234.ts
+#EXTINF:-1,S2:Sky-Movies-Family
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/236.ts
+#EXTINF:-1,S2:Sky-Movies-Drama
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/237.ts
+#EXTINF:-1,S2:Sky-Movies-Comedy
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/235.ts
+#EXTINF:-1,S2:Sky-Movies-Premier
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/233.ts
+
+#EXTINF:-1,------ MUSIC TV ------
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
+#EXTINF:-1,VIP: MTV Live HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8778.ts
+#EXTINF:-1,VIP: I Concerts
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8713.ts
+#EXTINF:-1,FR: NRJ TV
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6741.ts
+#EXTINF:-1,FR: NRJ 12 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2979.ts
+#EXTINF:-1,FR: M6 Music
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2905.ts
+#EXTINF:-1,FR: MTV HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7359.ts
+#EXTINF:-1,FR: MTV
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6425.ts
+#EXTINF:-1,FR: MTV Dance
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7362.ts
+#EXTINF:-1,FR: MTV HITS
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6255.ts
+#EXTINF:-1,FR: VH1
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6734.ts
+#EXTINF:-1,FR: MCM POP
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6710.ts
+#EXTINF:-1,FR: TRACE URBAN
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8608.ts
+#EXTINF:-1,FR: Virgin HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8447.ts
+#EXTINF:-1,S2:FR:M6-MUSIC
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/671.ts
+#EXTINF:-1,S2:FR:NRJ12-TV
+http://sat.010e.net:8000/live/katarfahed/fahedkatar/1332.ts
+
+#EXTINF:-1,------ USA TV ------
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
+#EXTINF:-1,USA: Bein Sports HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/4644.ts
+#EXTINF:-1,USA: Bein Sports N HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7419.ts
+#EXTINF:-1,VIP: Eleven sports 1 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7973.ts
+#EXTINF:-1,VIP: Eleven sports 2 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7972.ts
+#EXTINF:-1,USA: TSN 1
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2299.ts
+#EXTINF:-1,USA: TSN 2
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2298.ts
+#EXTINF:-1,USA: TSN 3
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2297.ts
+#EXTINF:-1,USA: TSN 4
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2296.ts
+#EXTINF:-1,USA: TSN 5
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2295.ts
+#EXTINF:-1,USA: Astro Supersport 1
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/3876.ts
+#EXTINF:-1,USA: Astro Supersport 2
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/3877.ts
+#EXTINF:-1,USA: Astro Supersport 3
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/3878.ts
+#EXTINF:-1,USA: Astro Supersport 4
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/3879.ts
+#EXTINF:-1,SP: CTH STADIUM 1 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1562.ts
+#EXTINF:-1,SP: CTH STADIUM 2 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1563.ts
+#EXTINF:-1,SP: CTH STADIUM 3 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1564.ts
+#EXTINF:-1,SP: CTH STADIUM 4 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1885.ts
+#EXTINF:-1,SP: CTH STADIUM 5 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1886.ts
+#EXTINF:-1,SP: CTH STADIUM 6 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/1887.ts
+#EXTINF:-1,SP: CTH STADIUM X
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2045.ts
+#EXTINF:-1,USA: SportsNet World
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7824.ts
+#EXTINF:-1,USA: SportsNet One HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7758.ts
+#EXTINF:-1,USA: SportsNet One
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8175.ts
+#EXTINF:-1,USA: SportNet 360
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8299.ts
+#EXTINF:-1,USA: Fox Sports 1 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6213.ts
+#EXTINF:-1,USA: Fox Sports 2 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6214.ts
+#EXTINF:-1,USA: ESPN HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8707.ts
+#EXTINF:-1,USA: ESPN 1
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8470.ts
+#EXTINF:-1,USA: ESPN 2
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8469.ts
+#EXTINF:-1,USA: CBS SPORTS NETWORK
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7643.ts
+#EXTINF:-1,VIP: Mio Sports 1
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7970.ts
+#EXTINF:-1,VIP: Mio Sports 2
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7969.ts
+#EXTINF:-1,VIP: Mio Sports 3
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7968.ts
+#EXTINF:-1,VIP: Mio Sports 4
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7967.ts
+#EXTINF:-1,VIP: Mio Sports 5
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7966.ts
+#EXTINF:-1,VIP: Mio Sports 6
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7965.ts
+#EXTINF:-1,VIP: Mio Sports 7
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7964.ts
+#EXTINF:-1,VIP: Mio STADIUM 102
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7971.ts
+#EXTINF:-1,USA: PAC12 Network HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8866.ts
+#EXTINF:-1,USA: PAC12 Mountain HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8867.ts
+#EXTINF:-1,USA: PAC12 Los Angeles HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8868.ts
+#EXTINF:-1,USA: PAC12 Bay Area HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8869.ts
+#EXTINF:-1,USA: PAC12 Arizona  HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8870.ts
+#EXTINF:-1,USA: DIY NETWORK HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8871.ts
+#EXTINF:-1,USA: USA Network
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6808.ts
+#EXTINF:-1,USA: NHL Network
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7418.ts
+#EXTINF:-1,USA: NFL
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6812.ts
+#EXTINF:-1,USA: NBC GOLF
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6829.ts
+#EXTINF:-1,USA: WWE
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6807.ts
+#EXTINF:-1,USA: US WWE HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/4270.ts
+#EXTINF:-1,USA: PAG HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7416.ts
+#EXTINF:-1,USA: FOX Motor Sports 7 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7365.ts
+#EXTINF:-1,USA: FOX Sports Live 503 HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7366.ts
+#EXTINF:-1,USA: NBA US HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/4272.ts
+#EXTINF:-1,USA: NBC SPORT
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6817.ts
+#EXTINF:-1,USA: Food Network
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7434.ts
+#EXTINF:-1,USA: Fight Network
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7459.ts
+#EXTINF:-1,USA: Fight Channel
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7458.ts
+#EXTINF:-1,USA: AFN SPORTS HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5917.ts
+#EXTINF:-1,USA: AFN SPORTS
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5907.ts
+#EXTINF:-1,USA: AFN SPORTS 2
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5906.ts
+#EXTINF:-1,USA: AFN SPECTRUM
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5898.ts
+#EXTINF:-1,USA: AFN PRIME PACIFIC
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5913.ts
+#EXTINF:-1,USA: AFN PRIME ATLANTIC
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5912.ts
+#EXTINF:-1,USA: AFN MOVIE
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5908.ts
+#EXTINF:-1,USA: AFN NEWS
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5901.ts
+#EXTINF:-1,USA: Ginx
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5791.ts
+#EXTINF:-1,USA: H2 US
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5899.ts
+#EXTINF:-1,USA: FOX
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8471.ts
+#EXTINF:-1,USA: Showtime HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6623.ts
+#EXTINF:-1,USA: HBO
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6826.ts
+#EXTINF:-1,USA: HBO East
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7462.ts
+#EXTINF:-1,USA: HBO Family
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6824.ts
+#EXTINF:-1,USA: HBO plus HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6825.ts
+#EXTINF:-1,USA: TWiT
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7424.ts
+#EXTINF:-1,USA: Fox News
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6831.ts
+#EXTINF:-1,USA: HIFI
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6810.ts
+#EXTINF:-1,USA: Toonami
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7906.ts
+#EXTINF:-1,USA: TBS HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6809.ts
+#EXTINF:-1,USA: SPACE
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6806.ts
+#EXTINF:-1,USA: byu tv
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8157.ts
+#EXTINF:-1,USA: E!
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8069.ts
+#EXTINF:-1,USA: ABC
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8068.ts
+#EXTINF:-1,USA: DTX HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8090.ts
+#EXTINF:-1,USA Travel Channel HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8215.ts
+#EXTINF:-1,USA: Tru HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8155.ts
+#EXTINF:-1,USA: PBS Plus
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6815.ts
+#EXTINF:-1,USA: NICK
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6816.ts
+#EXTINF:-1,USA: LIFE TIME
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6813.ts
+#EXTINF:-1,USA: Travel Channel
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7904.ts
+#EXTINF:-1,USA: TNT HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7905.ts
+#EXTINF:-1,USA: AMC
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7907.ts
+#EXTINF:-1,USA: NBCSN HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7901.ts
+#EXTINF:-1,USA: BLOOMBERG
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7903.ts
+#EXTINF:-1,USA: BBC AMERICA
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7902.ts
+#EXTINF:-1,USA: HALLMARK
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6827.ts
+#EXTINF:-1,USA: HBO Signature HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6830.ts
+#EXTINF:-1,USA: CNN US
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6814.ts
+#EXTINF:-1,USA: CNBC
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/3860.ts
+#EXTINF:-1,USA: World Fashion Channel
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7443.ts
+#EXTINF:-1,USA: WGN
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7425.ts
+#EXTINF:-1,USA: Poker Central
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7439.ts
+#EXTINF:-1,USA: NASA TV
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7367.ts
+#EXTINF:-1,USA: History Channel Canada
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7426.ts
+#EXTINF:-1,USA: VEVO
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7438.ts
+#EXTINF:-1,USA: CNBC HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7414.ts
+#EXTINF:-1,USA: DISCOVERY US HD
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7368.ts
+#EXTINF:-1,USA: CBSN US
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7820.ts
+#EXTINF:-1,USA: PAG
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7413.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 1 (LIVE DURING EPL)
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5130.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 2 (LIVE DURING EPL)
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5129.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 3 (LIVE DURING EPL)
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5128.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 4 (LIVE DURING EPL)
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5127.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 5 (LIVE DURING EPL)
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5126.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 6 (LIVE DURING EPL)
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5125.ts
+#EXTINF:-1,USA: NBC E.P.L XTRA 7 (LIVE DURING EPL)
+http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/5124.ts
+
 #EXTINF:-1,--- ADULT ---
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7857.ts
 #EXTINF:-1,18  XXX: Penthouse HD

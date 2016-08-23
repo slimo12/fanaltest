@@ -1529,39 +1529,6 @@ http://sat.010e.net:8000/live/katarfahed/fahedkatar/235.ts
 #EXTINF:-1,S2:Sky-Movies-Premier
 http://sat.010e.net:8000/live/katarfahed/fahedkatar/233.ts
 
-#EXTINF:-1,------ MUSIC TV ------
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
-#EXTINF:-1,VIP: MTV Live HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8778.ts
-#EXTINF:-1,VIP: I Concerts
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8713.ts
-#EXTINF:-1,FR: NRJ TV
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6741.ts
-#EXTINF:-1,FR: NRJ 12 HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2979.ts
-#EXTINF:-1,FR: M6 Music
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2905.ts
-#EXTINF:-1,FR: MTV HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7359.ts
-#EXTINF:-1,FR: MTV
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6425.ts
-#EXTINF:-1,FR: MTV Dance
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/7362.ts
-#EXTINF:-1,FR: MTV HITS
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6255.ts
-#EXTINF:-1,FR: VH1
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6734.ts
-#EXTINF:-1,FR: MCM POP
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/6710.ts
-#EXTINF:-1,FR: TRACE URBAN
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8608.ts
-#EXTINF:-1,FR: Virgin HD
-http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/8447.ts
-#EXTINF:-1,S2:FR:M6-MUSIC
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/671.ts
-#EXTINF:-1,S2:FR:NRJ12-TV
-http://sat.010e.net:8000/live/katarfahed/fahedkatar/1332.ts
-
 #EXTINF:-1,------ USA ------
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/2768.ts
 #EXTINF:-1,USA: TSN 1

@@ -328,6 +328,14 @@ http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/6106.ts
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/6105.ts
 #EXTINF:-1,VIP: BeIN Movies 4
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/7559.ts
+#EXTINF:-1,VIP: STARZ HD
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/10180.ts
+#EXTINF:-1,VIP: STARZ FAMILY HD
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/10178.ts
+#EXTINF:-1,VIP: STARZ EDGE HD
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/10177.ts
+#EXTINF:-1,VIP: STARZ COMEDY HD
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/10179.ts
 
 #EXTINF:-1,------ OSN ARABIC MOVIES CHANNELS ------
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts

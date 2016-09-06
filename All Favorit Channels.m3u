@@ -62,8 +62,10 @@ http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/5447.ts
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/8480.ts
 #EXTINF:-1,VIP: Bein Sports 17 HD
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/8481.ts
-#EXTINF:-1,VIP: SFR Sports 1-2 Fr
+#EXTINF:-1,VIP: SFR Sports 1 Fr
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/10072.ts
+#EXTINF:-1,VIP: SFR Sports 2 Fr
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/10141.ts
 #EXTINF:-1,VIP: Bein Sports 1 Fr
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/5689.ts
 #EXTINF:-1,VIP: Bein Sports 2 Fr

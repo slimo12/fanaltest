@@ -62,10 +62,24 @@ http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/5447.ts
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/8480.ts
 #EXTINF:-1,VIP: Bein Sports 17 HD
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/8481.ts
+#EXTINF:-1,BACKUP: Bein Sport 1 HD 
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/10356.ts
+#EXTINF:-1,BACKUP: Bein Sport 2 HD 
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/10357.ts
+#EXTINF:-1,BACKUP: Bein Sport 3 HD 
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/10358.ts
+#EXTINF:-1,BACKUP: Bein Sport 4 HD 
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/10359.ts
+#EXTINF:-1,BACKUP: Bein Sport 5 HD 
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/10360.ts
 #EXTINF:-1,VIP: SFR Sports 1 Fr
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/10072.ts
+#EXTINF:-1,BACKUP: SFR Sports 1 Fr
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/10737.ts
 #EXTINF:-1,VIP: SFR Sports 2 Fr
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/10141.ts
+#EXTINF:-1,VIP: SFR Sports 3 Fr
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/10870.ts
 #EXTINF:-1,VIP: Bein Sports 1 Fr
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/5689.ts
 #EXTINF:-1,VIP: Bein Sports 2 Fr
@@ -110,6 +124,10 @@ http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/2194.ts
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/2445.ts
 #EXTINF:-1,ES: La Liga TV
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/9631.ts
+#EXTINF:-1,ES: La Liga TV
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/9805.ts
+#EXTINF:-1,ES: La Liga BAR TV
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/10729.ts
 #EXTINF:-1,ES: beIN SPORT ES
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/5044.ts
 #EXTINF:-1,ES: BeIN LIGA HD
@@ -124,6 +142,8 @@ http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/1824.ts
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/1876.ts
 #EXTINF:-1,ES: CANAL+  DEPORTES 2
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/4835.ts
+#EXTINF:-1,ES:MOVISTAR PARTIDAZO HD
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/10733.ts
 #EXTINF:-1,ES: Teledeporte HD
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/9473.ts
 #EXTINF:-1,VIP: beIN Sport 1 LOW
@@ -420,6 +440,8 @@ http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/6978.ts
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/7533.ts
 #EXTINF:-1,VIP OSN: FOX ACTION MOVIES
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/8452.ts
+#EXTINF:-1,VIP OSN: FOX MOVIES HD
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/10292.ts
 #EXTINF:-1,VIP OSN: SyFy HD
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/9246.ts
 #EXTINF:-1,VIP OSN: Sundance TV HD

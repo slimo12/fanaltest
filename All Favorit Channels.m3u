@@ -128,6 +128,10 @@ http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/9056.ts
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/9057.ts
 #EXTINF:-1,IT: FOX SPORTS HD 
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/9015.ts
+#EXTINF:-1,PL: RTS DEUX HD 
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/6349.ts
+#EXTINF:-1,PL: RSI LA2 HD 
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/5007.ts
 #EXTINF:-1,PL: CANAL+ SPORTS 1 HD 
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/9339.ts
 #EXTINF:-1,PL: CANAL+ SPORTS 2 HD 

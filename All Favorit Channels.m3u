@@ -244,7 +244,9 @@ http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/4270.ts
 
 #EXTINF:-1,------ VOD MOVIES TV ------
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
-#EXTINF:-1,VIP:S.N.L BIL ARABI S02
+#EXTINF:-1,VIP:S.N.L BIL ARABI S02 EP1
+http://www.dmtn-iptv.com:8080/movie/257nad0205gf/257nad0205gfcdsfd/11041.mp4
+#EXTINF:-1,VIP:S.N.L BIL ARABI S02 EP2
 http://www.dmtn-iptv.com:8080/movie/257nad0205gf/257nad0205gfcdsfd/11041.mp4
 #EXTINF:-1,VIP:ZANGET SETTAT
 http://www.dmtn-iptv.com:8080/movie/257nad0205gf/257nad0205gfcdsfd/10890.mp4
@@ -316,10 +318,14 @@ http://www.dmtn-iptv.com:8080/movie/257nad0205gf/257nad0205gfcdsfd/11034.mp4
 http://www.dmtn-iptv.com:8080/movie/257nad0205gf/257nad0205gfcdsfd/10918.mp4 
 #EXTINF:-1,VIP:MOHANJO DARO
 http://www.dmtn-iptv.com:8080/movie/257nad0205gf/257nad0205gfcdsfd/10916.mp4
-#EXTINF:-1,VIP:conan movies 19
+#EXTINF:-1,VIP:CONAN MOVIE 19
 http://www.dmtn-iptv.com:8080/movie/257nad0205gf/257nad0205gfcdsfd/10924.mp4
-#EXTINF:-1,VIP:omar wa salwa
+#EXTINF:-1,VIP:OMAR WA SALWA
 http://www.dmtn-iptv.com:8080/movie/257nad0205gf/257nad0205gfcdsfd/10913.mp4
+#EXTINF:-1,VIP:ICE AGE
+http://www.dmtn-iptv.com:8080/movie/257nad0205gf/257nad0205gfcdsfd/10945.mp4
+#EXTINF:-1,VIP:NOW YOU SEE ME 2
+http://www.dmtn-iptv.com:8080/movie/257nad0205gf/257nad0205gfcdsfd/10889.mp4
 
 
 #EXTINF:-1,------ BEIN MOVIES TV ------

@@ -35,38 +35,6 @@ http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/3403.ts
 #EXTINF:-1,VIP: Bein Sports HD
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/6624.ts
 #EXTINF:-1,VIP: Bein Sport 1 HD
-http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/11097.ts
-#EXTINF:-1,VIP: Bein Sport 2 HD
-http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/11098.ts
-#EXTINF:-1,VIP: Bein Sport 3 HD
-http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/11099.ts
-#EXTINF:-1,VIP: Bein Sport 4 HD
-http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/11100.ts
-#EXTINF:-1,VIP: Bein Sport 5 HD
-http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/11101.ts
-#EXTINF:-1,VIP: Bein Sport 6 HD
-http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/11102.ts
-#EXTINF:-1,VIP: Bein Sport 7 HD
-http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/11103.ts
-#EXTINF:-1,VIP: Bein Sport 8 HD
-http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/11104.ts
-#EXTINF:-1,VIP: Bein Sport 9 HD
-http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/11105.ts
-#EXTINF:-1,VIP: Bein Sport 10 HD
-http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/11106.ts
-#EXTINF:-1,VIP: Bein Sport 11 HD
-http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/11107.ts
-#EXTINF:-1,VIP: Bein Sport 12 HD
-http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/11108.ts
-#EXTINF:-1,VIP: Bein Sport 13 HD
-http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/11109.ts
-#EXTINF:-1,VIP: Bein Sport 14 HD
-http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/11110.ts
-#EXTINF:-1,VIP: Bein Sport 15 HD
-http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/11111.ts
-#EXTINF:-1,VIP: Bein Sports 16 HD
-http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/11112.ts
-#EXTINF:-1,VIP: Bein Sport 1 HD
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/5330.ts
 #EXTINF:-1,VIP: Bein Sport 2 HD
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/5329.ts
@@ -374,6 +342,19 @@ http://www.dmtn-iptv.com:8080/movie/257nad0205gf/257nad0205gfcdsfd/11125.mp4
 http://www.dmtn-iptv.com:8080/movie/257nad0205gf/257nad0205gfcdsfd/11050.mp4
 #EXTINF:-1,VIP:INDEPENDENCE DAY: RESURGENCE
 http://www.dmtn-iptv.com:8080/movie/257nad0205gf/257nad0205gfcdsfd/11048.mp4
+#EXTINF:-1,VIP:MADRASAT EL MOSHEGHIBIN
+http://www.dmtn-iptv.com:8080/movie/257nad0205gf/257nad0205gfcdsfd/11178.mp4
+#EXTINF:-1,VIP:SHAHID MACHAFCH HAGA
+http://www.dmtn-iptv.com:8080/movie/257nad0205gf/257nad0205gfcdsfd/11181.mp4
+#EXTINF:-1,VIP:ELWAD EL SAID ELCHAGHAL
+http://www.dmtn-iptv.com:8080/movie/257nad0205gf/257nad0205gfcdsfd/11180.mp4
+#EXTINF:-1,VIP:ELZA3IM
+http://www.dmtn-iptv.com:8080/movie/257nad0205gf/257nad0205gfcdsfd/11177.mp4
+#EXTINF:-1,VIP:ELEIAL KIBRIT
+http://www.dmtn-iptv.com:8080/movie/257nad0205gf/257nad0205gfcdsfd/11179.mp4
+#EXTINF:-1,VIP:ALMOTAZWEGON
+http://www.dmtn-iptv.com:8080/movie/257nad0205gf/257nad0205gfcdsfd/11182.mp4
+
 
 #EXTINF:-1,------ BEIN MOVIES TV ------
 http://dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gf/2765.ts
@@ -385,6 +366,8 @@ http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/6107.ts
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/6106.ts
 #EXTINF:-1,VIP: BeIN Movies 3
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/6105.ts
+#EXTINF:-1,VIP: BeIN Movies 3
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/11183.ts
 #EXTINF:-1,VIP: BeIN Movies 4
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/7559.ts
 #EXTINF:-1,VIP: STARZ HD
@@ -1612,6 +1595,16 @@ http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/5124.ts
 
 #EXTINF:-1,--- ADULT ---
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/7857.ts
+#EXTINF:-1,XXX:EROXXX HD
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/11156.ts
+#EXTINF:-1,XXX:SUPERONE HD
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/11157.ts
+#EXTINF:-1,XXX:SPICE TV HD
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/10232.ts
+#EXTINF:-1,XXX:PRIVATE TV 1HD
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/10233.ts
+#EXTINF:-1,XXX:Penthouse Asia HD
+http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/10233.ts
 #EXTINF:-1,XXX: Playboy
 http://www.dmtn-iptv.com:8080/live/257nad0205gf/257nad0205gfcdsfd/8548.ts
 #EXTINF:-1,XXX: Penthouse 1 HD
